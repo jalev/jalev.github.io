@@ -7,11 +7,9 @@
 
 # Site settings
 title: The Blog
-email: qweet.ing@gmail.com
+email: blank@blank.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A blog for Jay to be able to write about various things he likes
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://appreciat.es" # the base hostname & protocol for your site
 twitter_username: mechaspam
